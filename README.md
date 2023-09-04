@@ -1,2 +1,8 @@
-# GameProgramming-FinalProject
- Game Programming Final Project
+# Game Programming Final Project
+This project was the final assignment for my Game Programming class. We were allowed to submit requests on what kind of assignment we wanted to make so I decided to make a card game project based on the popular Yu-Gi-Oh! card game. Needless to say, I ran out of time and could not finish the project. But, I was able to make a relatively working hand that had cards that were draggable and placeable on a monster zone and spell/trap card zone. There are two turn phases, however, I was unable to program in the enemy's turn so only one player turn may take place. The "Alexandrite Dragon" monster card is capable of dealing damage to the enemy's life points by clicking on them after placing them onto the monster zone and entering the battle phase.
+
+To run the game, open the build folder and run the FinalProject.exe file. However, to exit the build of the game, you will have to close the program manually which you can do from either the taskbar or task manager. To restart the game, you will have to close and reopen it. I failed to take UI scaling into account and had to build the project using a non-standard resolution to ensure it functioned properly. You might find it easier to use in the editor.
+
+To view the project in the Unity editor, open the FinalProject folder using UnityHub to open it as a project.
+
+Although this project did not turn out the way I wanted, I had a lot of fun working on something I came up with myself and learned a lot about how difficult game development can be.

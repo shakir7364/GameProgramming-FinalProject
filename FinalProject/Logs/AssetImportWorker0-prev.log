@@ -1,0 +1,185 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19045.3324; Version 2009; 64bit' Language: 'en' Physical Memory: 32686 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/shaki/Desktop/Classes/Game Programming/FinalProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65453
+Successfully changed project path to: C:/Users/shaki/Desktop/Classes/Game Programming/FinalProject
+C:/Users/shaki/Desktop/Classes/Game Programming/FinalProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/shaki/Desktop/Classes/Game Programming/FinalProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 Ti (ID=0x1e07)
+    Vendor:   
+    VRAM:     11041 MB
+    Driver:   31.0.15.3713
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56052
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002083 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.995 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000703 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 2.000200 ms (FindLiveObjects: 0.187800 ms CreateObjectMapping: 0.065600 ms MarkObjects: 1.661100 ms  DeleteObjects: 0.083900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Ookazi.png
+  artifactKey: Guid(91f055b353e011e41b5311452c8a0031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ookazi.png using Guid(91f055b353e011e41b5311452c8a0031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9f7a826a61456a8b51bf6ebbddec21') in 0.124940 seconds
+  Import took 0.126929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/SlifertheSkyDragon-LDK2-EN-UR-LE.png
+  artifactKey: Guid(14a2c27529530aa49be6bb8f8a1bc42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SlifertheSkyDragon-LDK2-EN-UR-LE.png using Guid(14a2c27529530aa49be6bb8f8a1bc42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f917315f6a509c3977fd4e055a7cb71') in 0.012474 seconds
+  Import took 0.013974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Kuriboh.jpg
+  artifactKey: Guid(7cf3a787070cc414b8e3c312722448a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kuriboh.jpg using Guid(7cf3a787070cc414b8e3c312722448a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f672bd5f3ed1737d22410978ff2f428') in 0.013315 seconds
+  Import took 0.014968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/AlexandriteDragon.jpg
+  artifactKey: Guid(ef3fc3a9e57351e43bdf4fd993790e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlexandriteDragon.jpg using Guid(ef3fc3a9e57351e43bdf4fd993790e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c4b8832d28fdb94bb2d48ce068acae') in 0.013642 seconds
+  Import took 0.015127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Card.prefab
+  artifactKey: Guid(597d231c5c432d64ab799357bca654bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Card.prefab using Guid(597d231c5c432d64ab799357bca654bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c87229a646eaa3154d40b921b57028') in 0.022240 seconds
+  Import took 0.023722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/AlexandriteDragon.jpg
+  artifactKey: Guid(ef3fc3a9e57351e43bdf4fd993790e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AlexandriteDragon.jpg using Guid(ef3fc3a9e57351e43bdf4fd993790e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c4b8832d28fdb94bb2d48ce068acae') in 0.008461 seconds
+  Import took 0.010209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/HornOfTheUnicorn.jpg
+  artifactKey: Guid(65e691b693715b54c95af5644d95cc30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HornOfTheUnicorn.jpg using Guid(65e691b693715b54c95af5644d95cc30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e15ffced05f85f28d4abd6c25b8a288') in 0.010643 seconds
+  Import took 0.012112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/dian_keto_the_cure_master.png
+  artifactKey: Guid(d37198e4f20660d46bec33e248c755b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dian_keto_the_cure_master.png using Guid(d37198e4f20660d46bec33e248c755b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05142f5589f7ea54bde8bc478cb05fa3') in 0.011732 seconds
+  Import took 0.013182 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000630 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.634 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.8 MB.
+System memory in use after: 59.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.292500 ms (FindLiveObjects: 0.104400 ms CreateObjectMapping: 0.030600 ms MarkObjects: 1.145200 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000678 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.625 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.8 MB.
+System memory in use after: 59.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 1.276100 ms (FindLiveObjects: 0.111800 ms CreateObjectMapping: 0.026700 ms MarkObjects: 1.125500 ms  DeleteObjects: 0.011100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
